@@ -2,7 +2,7 @@
 
 ## Introduction
 
-As a business, understanding sales performance is crucial for making informed decisions and driving growth. Through rigorous analysis of our sales data, we've uncovered valuable insights to guide our strategic initiatives and enhance our overall business operations.
+#### As a business, understanding sales performance is crucial for making informed decisions and driving growth. Through rigorous analysis of our sales data, we've uncovered valuable insights to guide our strategic initiatives and enhance our overall business operations.
  
 ## Analysis Highlights
 
