@@ -12,7 +12,7 @@
 
 #### Sales Trends Over Time: Compares sales performance month-over-month and year-over-year to identify trends and opportunities for growth.
 
-Category-wise Performance: Evaluates sales performance within different product categories, enabling us to capitalize on seasonal trends and plan promotions effectively.
+#### Category-wise Performance: Evaluates sales performance within different product categories, enabling us to capitalize on seasonal trends and plan promotions effectively.
 
 Profit Growth Analysis: Analyzes profit growth by subcategory and category to identify areas for improvement and optimize resource allocation.
 
