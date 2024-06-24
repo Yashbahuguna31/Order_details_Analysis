@@ -3,10 +3,10 @@
 ## Introduction
 
 As a business, understanding sales performance is crucial for making informed decisions and driving growth. Through rigorous analysis of our sales data, we've uncovered valuable insights to guide our strategic initiatives and enhance our overall business operations.
-
+ 
 ## Analysis Highlights
 
-Top Revenue Generating Products: Identifies the products contributing the highest revenue to our sales, helping us focus our marketing efforts and optimize inventory management for high-demand items.
+#### Top Revenue Generating Products: Identifies the products contributing the highest revenue to our sales, helping us focus our marketing efforts and optimize inventory management for high-demand items.
 
 Regional Sales Insights: Examines sales performance by region to tailor product offerings and marketing strategies to specific geographic preferences.
 
