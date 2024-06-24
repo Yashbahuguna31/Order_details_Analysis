@@ -14,7 +14,7 @@
 
 #### Category-wise Performance: Evaluates sales performance within different product categories, enabling us to capitalize on seasonal trends and plan promotions effectively.
 
-Profit Growth Analysis: Analyzes profit growth by subcategory and category to identify areas for improvement and optimize resource allocation.
+#### Profit Growth Analysis: Analyzes profit growth by subcategory and category to identify areas for improvement and optimize resource allocation.
 
 ## Conclusion
 By leveraging comprehensive sales analysis, we've gained valuable insights into our business performance and identified areas for strategic optimization. Armed with this knowledge, we're better equipped to make data-driven decisions and drive sustainable growth in our business.
