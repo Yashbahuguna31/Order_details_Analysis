@@ -10,7 +10,7 @@
 
 #### Regional Sales Insights: Examines sales performance by region to tailor product offerings and marketing strategies to specific geographic preferences.
 
-Sales Trends Over Time: Compares sales performance month-over-month and year-over-year to identify trends and opportunities for growth.
+#### Sales Trends Over Time: Compares sales performance month-over-month and year-over-year to identify trends and opportunities for growth.
 
 Category-wise Performance: Evaluates sales performance within different product categories, enabling us to capitalize on seasonal trends and plan promotions effectively.
 
